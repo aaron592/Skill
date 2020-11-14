@@ -88,8 +88,8 @@ font-weight:bold;
  .bottom-cloud{
 	 
 	 position:absolute;
-	  left:320px;
-	 top:150px;
+	  left:220px;
+	 top:200px;
 	 float:right;
  }
  .mountain{
@@ -179,4 +179,16 @@ font-weight:bold;
    -moz-border-radius: 20px;
    border-radius: 20px;
    text-decoration: none;
+}
+h4{
+font-size:20px;
+	 color:#38ada9;
+	 font-family: Rockwell;
+	 font-weight:normal;
+}
+h6{
+font-size:20px;
+	 color:#38ada9;
+	 font-family: Rockwell;
+	 font-weight:normal;
 }
